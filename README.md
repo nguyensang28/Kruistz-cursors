@@ -1,5 +1,5 @@
-# Graphite cursors
-This is an x-cursor theme inspired by [Graphite gtk theme](https://github.com/vinceliuice/Graphite-gtk-theme)
+# Kruistz cursors
+This is an X11 Cursor theme inspired from [Graphite gtk theme](https://github.com/vinceliuice/Graphite-gtk-theme)
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
